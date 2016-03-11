@@ -1,0 +1,60 @@
+body {
+    background-color: #f4f462;
+     font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {text-align: center}
+p {
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+h1{
+   
+   text-align:center;
+    column-span: all;
+    word-spacing: normal;
+    text-decoration-line: underline;
+}
+h2{text-align:center;
+    text-decoration-style: wavy;
+}
+body {
+
+    text-align: center;
+    text-overflow: ellipsis;
+    border: 1px;
+   
+}
+p { border-style:hidden;
+}
+
+
+
+
+#header {
+   
+    margin-right: auto;
+    float:center;
+    text-align: center;
+    
+}
+#content{
+    margin-top:50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+form{align-items:left;
+ width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+                box-sizing: border-box;
+}
+
+
+
+

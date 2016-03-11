@@ -1,0 +1,43 @@
+
+h1{text-align:center;
+
+    column-span: all;
+    word-spacing: normal;
+    text-decoration-line: underline;
+}
+body {
+background-color: #c97006; 
+    text-align: center;
+    text-overflow: ellipsis;
+    border: 1px;
+   font-family: 'PT Serif', serif;
+}
+p { border-style:hidden;
+}
+
+#content{
+    margin-top: inherit;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+form{
+    align-items:left;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+                box-sizing: border-box;
+}
+
+h2{text-align:center;
+}
+
+body {
+background-color: #a7a39e; 
+    text-align: center;
+    text-overflow: ellipsis;
+    border: 1px;
+   
+}
+p { border-style:hidden;
+}
+

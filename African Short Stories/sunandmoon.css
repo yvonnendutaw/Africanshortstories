@@ -1,0 +1,47 @@
+body {
+   backface-visibility: visible;
+    background-color: antiquewhite;
+}
+
+h2{text-indent:inherit;
+text-align:center;
+}
+
+h1{text-align:center;
+    column-span: all;
+    word-spacing: normal;
+    text-decoration-line: underline;
+}
+
+body {
+background-color: #a78359; 
+    text-align: center;
+    text-overflow: ellipsis;
+    border: 1px;
+    font-family: 'Lora', serif;
+   
+}
+p { border-style:hidden;
+}
+
+
+hr{  border-width: thick;
+    border-top:thick;
+border-left:thick;
+}
+
+#content{margin-top: inherit;
+margin-left: 250px;
+    margin-right: 250px;
+    align-content: space-between;
+}
+form{align-items:left;
+ width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+                box-sizing: border-box;
+}
+
+
+
+
